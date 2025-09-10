@@ -51,16 +51,21 @@ No significant missing values, duplicates, or categorical inconsistencies were d
 <img width="1337" height="433" alt="image" src="https://github.com/user-attachments/assets/55317d00-32a3-4b9d-a3b1-3930ceadbfba" />
 
 # Insights
+Key Insights from the Dashboard
 
-Key findings from the analysis include:
+The Lumina Sales Dashboard revealed some powerful insights into overall business performance:
 
-Top Products: A small percentage of products generated the majority of sales revenue.
+Lumina achieved $22.7M in total sales, showing strong demand across categories.
 
-Regional Performance: Certain locations consistently outperformed others in terms of revenue and volume.
+Customers placed over 91,000 orders, with an average order value of $2.5K, reflecting healthy spending patterns.
 
-Customer Segmentation: High-value customers showed distinct purchasing patterns that can be targeted.
+While a few top-performing products contributed significantly to revenue, some categories underperformed, creating opportunities for targeted improvement.
 
-Seasonality: Sales spiked during specific months/quarters, suggesting strong seasonal trends.
+Regional analysis highlighted that certain markets consistently outperformed others, suggesting the need for tailored regional strategies.
+
+From a customer segmentation perspective, high-value customers displayed unique purchasing behaviors that can be tapped into for loyalty programs and retention strategies.
+
+Clear seasonal trends emerged, with noticeable spikes in sales during specific months and quarters. This suggests Lumina can benefit from better seasonal planning around promotions and inventory management.
 
 # Recommendations
 

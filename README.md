@@ -55,17 +55,23 @@ Key Insights from the Dashboard
 
 The Lumina Sales Dashboard revealed some powerful insights into overall business performance:
 
-Lumina achieved $22.7M in total sales, showing strong demand across categories.
+- Lumina achieved $22.7M in total sales, showing strong demand across categories.
 
-Customers placed over 91,000 orders, with an average order value of $2.5K, reflecting healthy spending patterns.
+- Customers placed over 91,000 orders, with an average order value of $2.5K, reflecting healthy spending patterns.
 
-While a few top-performing products contributed significantly to revenue, some categories underperformed, creating opportunities for targeted improvement.
+- While a few top-performing products contributed significantly to revenue, some categories underperformed, creating opportunities for targeted improvement.
 
-Regional analysis highlighted that certain markets consistently outperformed others, suggesting the need for tailored regional strategies.
+- Regional analysis highlighted that certain markets consistently outperformed others, suggesting the need for tailored regional strategies.
 
-From a customer segmentation perspective, high-value customers displayed unique purchasing behaviors that can be tapped into for loyalty programs and retention strategies.
+- From a customer segmentation perspective, high-value customers displayed unique purchasing behaviors that can be tapped into for loyalty programs and retention strategies.
 
-Clear seasonal trends emerged, with noticeable spikes in sales during specific months and quarters. This suggests Lumina can benefit from better seasonal planning around promotions and inventory management.
+- Clear seasonal trends emerged, with noticeable spikes in sales during specific months and quarters. This suggests Lumina can benefit from better seasonal planning around promotions and inventory management.<br>
+
+ # Dashboard  
+[Lumina Sales Dashboard Preview]<br>
+<img width="734" height="550" alt="image" src="https://github.com/user-attachments/assets/b1d4bb58-b966-4959-b663-b7b474e82b47" />
+
+ [Click here to view the Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTAxNDI5MGUtNmZhNC00MThkLWEwMzgtZGEwNTMzZmYyYWZkIiwidCI6ImI3ZmE1MTQ0LTY0YzUtNDllZS1hMmU1LTBjYmYzNmQ2OTQ3OCIsImMiOjh9)
 
 # Recommendations
 
@@ -81,11 +87,7 @@ Plan seasonal promotions and inventory ahead of peak sales periods.
 
 Encourage upselling & cross-selling to increase AOV.
 
- # Dashboard  
-[Lumina Sales Dashboard Preview]<br>
-<img width="734" height="550" alt="image" src="https://github.com/user-attachments/assets/b1d4bb58-b966-4959-b663-b7b474e82b47" />
 
- [Click here to view the Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTAxNDI5MGUtNmZhNC00MThkLWEwMzgtZGEwNTMzZmYyYWZkIiwidCI6ImI3ZmE1MTQ0LTY0YzUtNDllZS1hMmU1LTBjYmYzNmQ2OTQ3OCIsImMiOjh9)
 
 
 # Tools & Technologies

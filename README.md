@@ -1,3 +1,6 @@
+# Lumina Retail Sales Report
+![business-report-graphs-charts-business-reports-pile-documents-business-concept](https://github.com/user-attachments/assets/e95d5a96-1071-4150-b3fc-e724eb804b21)
+
 # Introduction
 The Lumina Sales Report project provides an end-to-end analysis of sales performance across products, regions, and customer segments.
 Lumina Retail Group is a fast-growing retail brand operating physical stores and an e-commerce platform, offering a wide range of products from electronics to groceries.

@@ -85,11 +85,7 @@ Based on insights, Lumina Retail group can:<br>
 👉 Encourage upselling & cross-selling to increase AOV.
 
 # Tools & Technologies
-
-Power BI – Data visualization, modeling, and reporting.
-
-Power Query – Data cleaning and transformation.
-
-DAX – Calculated measures and KPIs.
-
-Excel – Initial data exploration and preprocessing.
+- Power BI – Data visualization, modeling, and reporting.
+- Power Query – Data cleaning and transformation.
+- DAX – Calculated measures and KPIs.
+- Excel – Initial data exploration and preprocessing.

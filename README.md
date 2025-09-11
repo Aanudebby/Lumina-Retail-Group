@@ -74,7 +74,7 @@ The Lumina Sales Dashboard revealed some powerful insights into overall business
 [Lumina Sales Dashboard Preview]<br>
 <img width="734" height="550" alt="image" src="https://github.com/user-attachments/assets/b1d4bb58-b966-4959-b663-b7b474e82b47" />
 
- [Click here to view the Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTAxNDI5MGUtNmZhNC00MThkLWEwMzgtZGEwNTMzZmYyYWZkIiwidCI6ImI3ZmE1MTQ0LTY0YzUtNDllZS1hMmU1LTBjYmYzNmQ2OTQ3OCIsImMiOjh9)
+[Click here to view the Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTAxNDI5MGUtNmZhNC00MThkLWEwMzgtZGEwNTMzZmYyYWZkIiwidCI6ImI3ZmE1MTQ0LTY0YzUtNDllZS1hMmU1LTBjYmYzNmQ2OTQ3OCIsImMiOjh9)
 
 # Recommendations
 Based on insights, Lumina Retail group can:<br>

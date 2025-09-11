@@ -77,21 +77,12 @@ The Lumina Sales Dashboard revealed some powerful insights into overall business
  [Click here to view the Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTAxNDI5MGUtNmZhNC00MThkLWEwMzgtZGEwNTMzZmYyYWZkIiwidCI6ImI3ZmE1MTQ0LTY0YzUtNDllZS1hMmU1LTBjYmYzNmQ2OTQ3OCIsImMiOjh9)
 
 # Recommendations
-
-Based on insights, Lumina Retail group can:
-
-Focus on high-performing products with more marketing and distribution.
-
-Develop region-specific sales campaigns for underperforming areas.
-
-Implement loyalty programs to retain high-value customers.
-
-Plan seasonal promotions and inventory ahead of peak sales periods.
-
-Encourage upselling & cross-selling to increase AOV.
-
-
-
+Based on insights, Lumina Retail group can:<br>
+👉 Focus on high-performing products with more marketing and distribution.<br>
+👉 Develop region-specific sales campaigns for underperforming areas.<br>
+👉 Implement loyalty programs to retain high-value customers.<br>
+👉 Plan seasonal promotions and inventory ahead of peak sales periods.<br>
+👉 Encourage upselling & cross-selling to increase AOV.
 
 # Tools & Technologies
 
